@@ -4,6 +4,8 @@
 - Coding 
 - Game
 - Book
+- Artifical Intelligence
+- Machine Learning
 - 
 - 🌱 I’m currently learning 
 - Tensorflow
