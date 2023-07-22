@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm focusing on DeepLearning algorithm
 
-https://api.daily.dev/devcards/67cacef5ce6745478defcf41002a608f.png?r=viq
+<a href="https://app.daily.dev/berkayguzel06"><img src="https://api.daily.dev/devcards/67cacef5ce6745478defcf41002a608f.png?r=viq" width="400" alt="Berkay's Dev Card"/></a>
 
 
 ## 🌐 Socials:
