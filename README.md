@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm focusing on DeepLearning algorithms
+I'm focusing on DeepLearning algorithm
+
+https://api.daily.dev/devcards/67cacef5ce6745478defcf41002a608f.png?r=viq
 
 
 ## 🌐 Socials:
