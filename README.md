@@ -1,9 +1,6 @@
 # 💫 About Me:
 I'm focusing on DeepLearning algorithm
 
-<a href="https://app.daily.dev/berkayguzel06"><img src="https://api.daily.dev/devcards/67cacef5ce6745478defcf41002a608f.png?r=viq" width="400" alt="Berkay's Dev Card"/></a>
-
-
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/berkayguzel06) 
 
