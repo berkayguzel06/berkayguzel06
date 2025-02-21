@@ -36,5 +36,6 @@ I'm a Computer Engineering with a passion for AI, machine learning, and image pr
 
 <h2 align="center">:bar_chart: Stats </h2>
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=berkayguzel06&show_icons=true&theme=nightowl"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=berkayguzel06&show_icons=true&theme=dark"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayguzel06&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 </p>
