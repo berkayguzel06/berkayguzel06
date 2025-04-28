@@ -1,5 +1,5 @@
 # Hello 👋
-I'm a Computer Engineering with a passion for AI, machine learning, and image processing. Proficient in Python, Java, C#, C, and TensorFlow. Experienced in Node-RED for IoT. Committed to staying updated on emerging technologies and eager to contribute innovative solutions in a collaborative team environment.
+I'm a Computer Engineer with a passion for AI, machine learning, and image processing. Proficient in Python, Java, C#, C, and TensorFlow. Experienced in Node-RED for IoT. Committed to staying updated on emerging technologies and eager to contribute innovative solutions in a collaborative team environment.
 
 ## 🌐 Socials:
 <p align="center">
