@@ -18,7 +18,6 @@ I'm a Computer Engineer passionate about **AI, machine learning, and image proce
 
 When I'm not coding, you’ll find me:
 - 🕹️ Gaming
-- 🚁 Flying drones & exploring aerial photography
 - 🥾 Hiking and discovering new trails
 
 ---
